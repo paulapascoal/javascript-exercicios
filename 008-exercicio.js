@@ -1,5 +1,5 @@
-let distancia = 185.72
-let km = (distancia /1000) .toFixed(5);
+let distancia = 185.72 //Nessa situação vamos utilizar a let distancia na interação direta com as outras let para que seja feita a multiplicação ou a divisão para que consigamos os valores desejados.
+let km = (distancia /1000) .toFixed(5); 
 let hm = (distancia/100) .toFixed(5);
 let dam = (distancia/10) .toFixed(5);
 let dm = (distancia * 10) .toFixed(1);
