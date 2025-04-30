@@ -1,0 +1,1 @@
+console.log ('Olá Mundo!') //comando de execução de tela no terminal.
