@@ -2,7 +2,7 @@ let preco = 300.86
 
 console.log (`O preço do moletom que você deseja custa R$: ${preco}.`)
 
-let des = preco*5/100 .toFixed(1);
+let des = preco*0.5/100 .toFixed(1);
 let valor = preco - des 
 
 console.log (`O desconto vai ser de ${des.toFixed(2)}`)

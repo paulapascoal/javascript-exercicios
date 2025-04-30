@@ -1,5 +1,5 @@
 let sal = 1518
-let desc = (sal*15)/100
+let desc = (sal*0.15)/100
 let nov = sal + desc
 
 console.log (`O salário atual é de R$: ${sal .toFixed(2)}`)
